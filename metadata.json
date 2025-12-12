@@ -1,0 +1,7 @@
+{
+  "name": "VisionCraft AI",
+  "description": "一个智能图像分析工具，允许用户定义自定义识别规则并使用 Gemini 2.5 Flash 编辑提取的见解。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
